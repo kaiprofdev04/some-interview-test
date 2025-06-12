@@ -52,11 +52,11 @@ This endpoint should return a list of cleaned post objects.
 3. Start the development server:
    `npm run dev`
 
-Your API should now be accessible at:
+Your local server should now be accessible at:
 
-`http://localhost:3000/api/trends`
+`http://localhost:3000`
 
-Example usage:
+Example usage when testing the custom API endpoint:
 
 `http://localhost:3000/api/trends?limit=5&search=butik`
 
