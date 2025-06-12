@@ -52,7 +52,7 @@ This endpoint should return a list of cleaned post objects.
 3. Start the development server:
    `npm run dev`
 
-Your local server should now be accessible at:
+Your app should now be accessible at:
 
 `http://localhost:3000`
 
@@ -63,8 +63,8 @@ Example usage when testing the custom API endpoint:
 ## 📦 Deliverables
 
 Please submit to interviewer's email:
-- Link to a GitHub repo (public or private) with working `/api/trends` (local) endpoint
-- A brief video explaining your solution and thought process.
+- Link to a GitHub repo (public or private) with the working app. The `/api/trends` endpoint should be functional.
+- A brief video presenting and explaining your solution and your thought process.
 
 ## 📚 Notes
 
