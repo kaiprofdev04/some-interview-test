@@ -44,7 +44,7 @@ This endpoint should return a list of cleaned post objects.
 ## ▶️ Getting Started
 
 1. Clone the repo:
-   `git clone [your-repo-url]`
+   `git clone https://github.com/kaiprofdev04/some-interview-test.git`
 
 2. Install dependencies:
    `npm install`
