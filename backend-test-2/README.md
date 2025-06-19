@@ -131,6 +131,7 @@ Please submit to interviewer's email:
   - That `/api/sync` successfully fetches posts and only inserts new ones
   - That `/api/trends` correctly filters and returns results using `limit`, `search`, and `since`
   - Optional: You may use Postman, browser, or curl to show API calls
+  - **Explain your solution and your thought process**
 
 ## 📚 Notes
 
