@@ -37,7 +37,7 @@ This endpoint should return a list of cleaned post objects.
 ## 🔧 Tech Guidelines
 
 - Use **Node.js with TypeScript**
-- Build upon the current **Next.js** project. You are free to use other frameworks if preferred.
+- Build upon the current **Next.js** project.
 - Code should be **modular**, **clean**, and **easy to follow**
 - Focus on **clarity**, **error handling**, and **sensible defaults**
 
