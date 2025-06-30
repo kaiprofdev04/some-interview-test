@@ -64,7 +64,7 @@ Example usage when testing the custom API endpoint:
 
 Please submit to interviewer's email:
 - Link to a GitHub repo (public or private) with the working app. The `/api/trends` endpoint should be functional.
-- A brief video presenting and explaining your solution and your thought process.
+- A brief video presenting and explaining your solution as well as your thought process while working.
 
 ## 📚 Notes
 
